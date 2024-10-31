@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @andrew6462
+- 👀 I’m interested in AI/ML Development within the Python SDK and Azure Platform
+- 🌱 I’m currently learning Advanced Data Structures, RAG, and Azure ML modeling
